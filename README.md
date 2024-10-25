@@ -38,6 +38,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/srjpandey/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1585-the-kth-factor-of-n](https://github.com/srjpandey/leetcode/tree/master/1585-the-kth-factor-of-n) |
 ## Greedy
 |  |
 | ------- |
@@ -51,4 +52,8 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | ------- |
 | [0584-find-customer-referee](https://github.com/srjpandey/leetcode/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/srjpandey/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/srjpandey/leetcode/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
