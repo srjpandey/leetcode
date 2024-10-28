@@ -57,6 +57,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/srjpandey/leetcode/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/srjpandey/leetcode/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/srjpandey/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Number Theory
 |  |
