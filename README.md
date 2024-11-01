@@ -14,6 +14,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srjpandey/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/srjpandey/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/srjpandey/leetcode/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/srjpandey/leetcode/tree/master/0051-n-queens) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/srjpandey/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/srjpandey/leetcode/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/srjpandey/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -143,4 +144,8 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/srjpandey/leetcode/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/srjpandey/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
