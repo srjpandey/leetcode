@@ -148,4 +148,5 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/srjpandey/leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/srjpandey/leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
