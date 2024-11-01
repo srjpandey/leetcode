@@ -15,6 +15,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0041-first-missing-positive](https://github.com/srjpandey/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/srjpandey/leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/srjpandey/leetcode/tree/master/0051-n-queens) |
+| [0068-text-justification](https://github.com/srjpandey/leetcode/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/srjpandey/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/srjpandey/leetcode/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/srjpandey/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -46,6 +47,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0032-longest-valid-parentheses](https://github.com/srjpandey/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/srjpandey/leetcode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/srjpandey/leetcode/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/srjpandey/leetcode/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/srjpandey/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/srjpandey/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/srjpandey/leetcode/tree/master/0443-string-compression) |
@@ -152,4 +154,8 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | ------- |
 | [0051-n-queens](https://github.com/srjpandey/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/srjpandey/leetcode/tree/master/0052-n-queens-ii) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/srjpandey/leetcode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
