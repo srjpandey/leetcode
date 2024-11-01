@@ -53,6 +53,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/srjpandey/leetcode/tree/master/0060-permutation-sequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/srjpandey/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1585-the-kth-factor-of-n](https://github.com/srjpandey/leetcode/tree/master/1585-the-kth-factor-of-n) |
 ## Greedy
@@ -119,6 +120,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/srjpandey/leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/srjpandey/leetcode/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/srjpandey/leetcode/tree/master/0060-permutation-sequence) |
 ## Linked List
 |  |
 | ------- |
