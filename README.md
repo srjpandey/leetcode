@@ -77,6 +77,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0595-big-countries](https://github.com/srjpandey/leetcode/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/srjpandey/leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/srjpandey/leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1801-average-time-of-process-per-machine](https://github.com/srjpandey/leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/srjpandey/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/srjpandey/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Number Theory
