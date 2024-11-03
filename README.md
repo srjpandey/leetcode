@@ -10,6 +10,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/srjpandey/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/srjpandey/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srjpandey/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/srjpandey/leetcode/tree/master/0041-first-missing-positive) |
@@ -149,6 +150,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/srjpandey/leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/srjpandey/leetcode/tree/master/0041-first-missing-positive) |
 ## Monotonic Stack
 |  |
