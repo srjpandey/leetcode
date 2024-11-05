@@ -50,6 +50,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0044-wildcard-matching](https://github.com/srjpandey/leetcode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/srjpandey/leetcode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/srjpandey/leetcode/tree/master/0068-text-justification) |
+| [0115-distinct-subsequences](https://github.com/srjpandey/leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/srjpandey/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/srjpandey/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/srjpandey/leetcode/tree/master/0443-string-compression) |
@@ -97,6 +98,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0032-longest-valid-parentheses](https://github.com/srjpandey/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/srjpandey/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/srjpandey/leetcode/tree/master/0044-wildcard-matching) |
+| [0115-distinct-subsequences](https://github.com/srjpandey/leetcode/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/srjpandey/leetcode/tree/master/0392-is-subsequence) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/srjpandey/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Binary Search
