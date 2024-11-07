@@ -28,6 +28,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0238-product-of-array-except-self](https://github.com/srjpandey/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/srjpandey/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/srjpandey/leetcode/tree/master/0283-move-zeroes) |
+| [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0605-can-place-flowers](https://github.com/srjpandey/leetcode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/srjpandey/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/srjpandey/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -69,6 +70,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | ------- |
 | [0060-permutation-sequence](https://github.com/srjpandey/leetcode/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/srjpandey/leetcode/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/srjpandey/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1585-the-kth-factor-of-n](https://github.com/srjpandey/leetcode/tree/master/1585-the-kth-factor-of-n) |
 ## Greedy
@@ -174,6 +176,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0001-two-sum](https://github.com/srjpandey/leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/srjpandey/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/srjpandey/leetcode/tree/master/0041-first-missing-positive) |
+| [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -196,4 +199,12 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/srjpandey/leetcode/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
