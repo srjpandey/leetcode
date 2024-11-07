@@ -16,6 +16,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0037-sudoku-solver](https://github.com/srjpandey/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/srjpandey/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/srjpandey/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/srjpandey/leetcode/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/srjpandey/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/srjpandey/leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/srjpandey/leetcode/tree/master/0068-text-justification) |
@@ -72,6 +73,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/srjpandey/leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/srjpandey/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/srjpandey/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srjpandey/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/srjpandey/leetcode/tree/master/0605-can-place-flowers) |
@@ -106,6 +108,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0032-longest-valid-parentheses](https://github.com/srjpandey/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/srjpandey/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/srjpandey/leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/srjpandey/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/srjpandey/leetcode/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/srjpandey/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srjpandey/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
