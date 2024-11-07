@@ -26,6 +26,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srjpandey/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/srjpandey/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/srjpandey/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/srjpandey/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/srjpandey/leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/srjpandey/leetcode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/srjpandey/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -48,6 +49,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/srjpandey/leetcode/tree/master/0088-merge-sorted-array) |
+| [0274-h-index](https://github.com/srjpandey/leetcode/tree/master/0274-h-index) |
 ## String
 |  |
 | ------- |
@@ -190,4 +192,8 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/srjpandey/leetcode/tree/master/0037-sudoku-solver) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/srjpandey/leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
