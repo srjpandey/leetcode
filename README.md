@@ -56,6 +56,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/srjpandey/leetcode/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/srjpandey/leetcode/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/srjpandey/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/srjpandey/leetcode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/srjpandey/leetcode/tree/master/0065-valid-number) |
@@ -69,6 +70,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/srjpandey/leetcode/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/srjpandey/leetcode/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/srjpandey/leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -176,6 +178,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/srjpandey/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/srjpandey/leetcode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/srjpandey/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/srjpandey/leetcode/tree/master/0041-first-missing-positive) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
