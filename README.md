@@ -55,6 +55,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/srjpandey/leetcode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/srjpandey/leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/srjpandey/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/srjpandey/leetcode/tree/master/0014-longest-common-prefix) |
