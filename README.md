@@ -57,6 +57,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/srjpandey/leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/srjpandey/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/srjpandey/leetcode/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/srjpandey/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/srjpandey/leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/srjpandey/leetcode/tree/master/0058-length-of-last-word) |
@@ -213,4 +214,8 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/srjpandey/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
