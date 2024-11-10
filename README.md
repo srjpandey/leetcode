@@ -25,6 +25,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srjpandey/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srjpandey/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/srjpandey/leetcode/tree/master/0134-gas-station) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/srjpandey/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/srjpandey/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/srjpandey/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/srjpandey/leetcode/tree/master/0274-h-index) |
@@ -44,6 +45,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0088-merge-sorted-array](https://github.com/srjpandey/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/srjpandey/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/srjpandey/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/srjpandey/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/srjpandey/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/srjpandey/leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/srjpandey/leetcode/tree/master/0392-is-subsequence) |
@@ -135,6 +137,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/srjpandey/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/srjpandey/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/srjpandey/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Tree
 |  |
