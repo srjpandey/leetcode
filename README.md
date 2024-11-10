@@ -20,6 +20,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0041-first-missing-positive](https://github.com/srjpandey/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/srjpandey/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/srjpandey/leetcode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/srjpandey/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/srjpandey/leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/srjpandey/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/srjpandey/leetcode/tree/master/0055-jump-game) |
@@ -91,6 +92,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/srjpandey/leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/srjpandey/leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/srjpandey/leetcode/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/srjpandey/leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -232,6 +234,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | ------- |
 | [0036-valid-sudoku](https://github.com/srjpandey/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/srjpandey/leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/srjpandey/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/srjpandey/leetcode/tree/master/0054-spiral-matrix) |
 ## Counting Sort
 |  |
