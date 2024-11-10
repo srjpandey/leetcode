@@ -15,6 +15,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0011-container-with-most-water](https://github.com/srjpandey/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/srjpandey/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srjpandey/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/srjpandey/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/srjpandey/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/srjpandey/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/srjpandey/leetcode/tree/master/0042-trapping-rain-water) |
@@ -205,6 +206,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0003-longest-substring-without-repeating-characters](https://github.com/srjpandey/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/srjpandey/leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/srjpandey/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/srjpandey/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/srjpandey/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/srjpandey/leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/srjpandey/leetcode/tree/master/0076-minimum-window-substring) |
@@ -226,6 +228,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/srjpandey/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/srjpandey/leetcode/tree/master/0037-sudoku-solver) |
 ## Counting Sort
 |  |
