@@ -12,6 +12,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | ------- |
 | [0001-two-sum](https://github.com/srjpandey/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/srjpandey/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/srjpandey/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srjpandey/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/srjpandey/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/srjpandey/leetcode/tree/master/0041-first-missing-positive) |
@@ -38,6 +39,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/srjpandey/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srjpandey/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srjpandey/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/srjpandey/leetcode/tree/master/0042-trapping-rain-water) |
@@ -89,6 +91,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/srjpandey/leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/srjpandey/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/srjpandey/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/srjpandey/leetcode/tree/master/0055-jump-game) |
