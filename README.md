@@ -81,6 +81,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/srjpandey/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1585-the-kth-factor-of-n](https://github.com/srjpandey/leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/srjpandey/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -161,6 +162,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0025-reverse-nodes-in-k-group](https://github.com/srjpandey/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/srjpandey/leetcode/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/srjpandey/leetcode/tree/master/0060-permutation-sequence) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/srjpandey/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -225,4 +227,8 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srjpandey/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/srjpandey/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 <!---LeetCode Topics End-->
