@@ -77,6 +77,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0058-length-of-last-word](https://github.com/srjpandey/leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/srjpandey/leetcode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/srjpandey/leetcode/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/srjpandey/leetcode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/srjpandey/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/srjpandey/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/srjpandey/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -206,6 +207,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/srjpandey/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/srjpandey/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/srjpandey/leetcode/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/srjpandey/leetcode/tree/master/0076-minimum-window-substring) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Monotonic Stack
 |  |
@@ -254,5 +256,6 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srjpandey/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/srjpandey/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/srjpandey/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/srjpandey/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
