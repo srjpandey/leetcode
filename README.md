@@ -29,6 +29,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0134-gas-station](https://github.com/srjpandey/leetcode/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srjpandey/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/srjpandey/leetcode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/srjpandey/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/srjpandey/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/srjpandey/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/srjpandey/leetcode/tree/master/0283-move-zeroes) |
@@ -105,6 +106,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/srjpandey/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/srjpandey/leetcode/tree/master/0238-product-of-array-except-self) |
 ## Database
 |  |
@@ -144,6 +146,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/srjpandey/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srjpandey/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/srjpandey/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/srjpandey/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Tree
 |  |
@@ -242,4 +245,8 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/srjpandey/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/srjpandey/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
