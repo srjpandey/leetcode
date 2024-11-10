@@ -71,6 +71,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0013-roman-to-integer](https://github.com/srjpandey/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/srjpandey/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srjpandey/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/srjpandey/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/srjpandey/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/srjpandey/leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/srjpandey/leetcode/tree/master/0058-length-of-last-word) |
@@ -202,6 +203,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0001-two-sum](https://github.com/srjpandey/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srjpandey/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/srjpandey/leetcode/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/srjpandey/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/srjpandey/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/srjpandey/leetcode/tree/master/0041-first-missing-positive) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -251,5 +253,6 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srjpandey/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/srjpandey/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/srjpandey/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
