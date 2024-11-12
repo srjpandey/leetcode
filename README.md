@@ -138,6 +138,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0066-plus-one](https://github.com/srjpandey/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/srjpandey/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/srjpandey/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/srjpandey/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/srjpandey/leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/srjpandey/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -195,6 +196,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0062-unique-paths](https://github.com/srjpandey/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/srjpandey/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/srjpandey/leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/srjpandey/leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/srjpandey/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srjpandey/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srjpandey/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -355,4 +357,8 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/srjpandey/leetcode/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/srjpandey/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
