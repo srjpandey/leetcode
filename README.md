@@ -108,6 +108,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0002-add-two-numbers](https://github.com/srjpandey/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/srjpandey/leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/srjpandey/leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/srjpandey/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/srjpandey/leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/srjpandey/leetcode/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/srjpandey/leetcode/tree/master/0189-rotate-array) |
@@ -291,6 +292,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/srjpandey/leetcode/tree/master/0029-divide-two-integers) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/srjpandey/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/srjpandey/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Sliding Window
