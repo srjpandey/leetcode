@@ -38,6 +38,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0056-merge-intervals](https://github.com/srjpandey/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/srjpandey/leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/srjpandey/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/srjpandey/leetcode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/srjpandey/leetcode/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/srjpandey/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/srjpandey/leetcode/tree/master/0088-merge-sorted-array) |
@@ -188,6 +189,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0055-jump-game](https://github.com/srjpandey/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/srjpandey/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/srjpandey/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/srjpandey/leetcode/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/srjpandey/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srjpandey/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srjpandey/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -306,6 +308,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0048-rotate-image](https://github.com/srjpandey/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/srjpandey/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/srjpandey/leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/srjpandey/leetcode/tree/master/0064-minimum-path-sum) |
 ## Counting Sort
 |  |
 | ------- |
