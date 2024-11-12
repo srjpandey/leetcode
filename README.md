@@ -96,6 +96,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/srjpandey/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/srjpandey/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/srjpandey/leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/srjpandey/leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/srjpandey/leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/srjpandey/leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/srjpandey/leetcode/tree/master/0065-valid-number) |
@@ -115,6 +116,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0007-reverse-integer](https://github.com/srjpandey/leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/srjpandey/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/srjpandey/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/srjpandey/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/srjpandey/leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/srjpandey/leetcode/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/srjpandey/leetcode/tree/master/0189-rotate-array) |
@@ -271,6 +273,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/srjpandey/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/srjpandey/leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/srjpandey/leetcode/tree/master/0068-text-justification) |
 ## Matrix
