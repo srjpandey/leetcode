@@ -74,6 +74,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srjpandey/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/srjpandey/leetcode/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/srjpandey/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/srjpandey/leetcode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/srjpandey/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/srjpandey/leetcode/tree/master/0014-longest-common-prefix) |
