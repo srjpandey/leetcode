@@ -137,6 +137,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0062-unique-paths](https://github.com/srjpandey/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/srjpandey/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/srjpandey/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/srjpandey/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/srjpandey/leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/srjpandey/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -206,6 +207,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0033-search-in-rotated-sorted-array](https://github.com/srjpandey/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/srjpandey/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/srjpandey/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/srjpandey/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srjpandey/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/srjpandey/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/srjpandey/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
