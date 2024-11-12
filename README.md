@@ -43,6 +43,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0068-text-justification](https://github.com/srjpandey/leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/srjpandey/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/srjpandey/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/srjpandey/leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/srjpandey/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/srjpandey/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srjpandey/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -120,6 +121,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0071-simplify-path](https://github.com/srjpandey/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/srjpandey/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/srjpandey/leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/srjpandey/leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/srjpandey/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/srjpandey/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/srjpandey/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -311,6 +313,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0052-n-queens-ii](https://github.com/srjpandey/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/srjpandey/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/srjpandey/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/srjpandey/leetcode/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -328,6 +331,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0063-unique-paths-ii](https://github.com/srjpandey/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/srjpandey/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/srjpandey/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/srjpandey/leetcode/tree/master/0079-word-search) |
 ## Counting Sort
 |  |
 | ------- |
