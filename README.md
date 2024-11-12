@@ -32,6 +32,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0048-rotate-image](https://github.com/srjpandey/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/srjpandey/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/srjpandey/leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/srjpandey/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/srjpandey/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/srjpandey/leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/srjpandey/leetcode/tree/master/0068-text-justification) |
@@ -177,6 +178,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0042-trapping-rain-water](https://github.com/srjpandey/leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/srjpandey/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/srjpandey/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/srjpandey/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/srjpandey/leetcode/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/srjpandey/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srjpandey/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -216,6 +218,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/srjpandey/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/srjpandey/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/srjpandey/leetcode/tree/master/0053-maximum-subarray) |
 ## Recursion
 |  |
 | ------- |
