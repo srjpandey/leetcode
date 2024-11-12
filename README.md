@@ -30,6 +30,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0046-permutations](https://github.com/srjpandey/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/srjpandey/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/srjpandey/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/srjpandey/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/srjpandey/leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/srjpandey/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/srjpandey/leetcode/tree/master/0055-jump-game) |
@@ -80,6 +81,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0015-3sum](https://github.com/srjpandey/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/srjpandey/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/srjpandey/leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/srjpandey/leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/srjpandey/leetcode/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/srjpandey/leetcode/tree/master/0274-h-index) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/srjpandey/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -100,6 +102,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0038-count-and-say](https://github.com/srjpandey/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/srjpandey/leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/srjpandey/leetcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/srjpandey/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/srjpandey/leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/srjpandey/leetcode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/srjpandey/leetcode/tree/master/0068-text-justification) |
@@ -256,6 +259,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0036-valid-sudoku](https://github.com/srjpandey/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/srjpandey/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/srjpandey/leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/srjpandey/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/srjpandey/leetcode/tree/master/0076-minimum-window-substring) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Monotonic Stack
