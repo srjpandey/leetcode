@@ -42,6 +42,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0066-plus-one](https://github.com/srjpandey/leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/srjpandey/leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/srjpandey/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/srjpandey/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/srjpandey/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/srjpandey/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srjpandey/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -309,6 +310,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0051-n-queens](https://github.com/srjpandey/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/srjpandey/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/srjpandey/leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/srjpandey/leetcode/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
@@ -351,6 +353,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | ------- |
 | [0029-divide-two-integers](https://github.com/srjpandey/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/srjpandey/leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/srjpandey/leetcode/tree/master/0078-subsets) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/srjpandey/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/srjpandey/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Sliding Window
