@@ -35,6 +35,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0053-maximum-subarray](https://github.com/srjpandey/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/srjpandey/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/srjpandey/leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/srjpandey/leetcode/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/srjpandey/leetcode/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/srjpandey/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/srjpandey/leetcode/tree/master/0088-merge-sorted-array) |
@@ -83,6 +84,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0016-3sum-closest](https://github.com/srjpandey/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/srjpandey/leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/srjpandey/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/srjpandey/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/srjpandey/leetcode/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/srjpandey/leetcode/tree/master/0274-h-index) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/srjpandey/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
