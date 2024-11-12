@@ -130,6 +130,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0048-rotate-image](https://github.com/srjpandey/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/srjpandey/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/srjpandey/leetcode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/srjpandey/leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/srjpandey/leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/srjpandey/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -184,6 +185,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0045-jump-game-ii](https://github.com/srjpandey/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/srjpandey/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/srjpandey/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/srjpandey/leetcode/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/srjpandey/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srjpandey/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srjpandey/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -335,4 +337,8 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0076-minimum-window-substring](https://github.com/srjpandey/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/srjpandey/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/srjpandey/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/srjpandey/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
