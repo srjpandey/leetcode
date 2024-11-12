@@ -96,6 +96,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/srjpandey/leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/srjpandey/leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/srjpandey/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/srjpandey/leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/srjpandey/leetcode/tree/master/0060-permutation-sequence) |
