@@ -40,6 +40,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0605-can-place-flowers](https://github.com/srjpandey/leetcode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/srjpandey/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/srjpandey/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/srjpandey/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2716-prime-subtraction-operation](https://github.com/srjpandey/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/srjpandey/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -67,6 +68,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0015-3sum](https://github.com/srjpandey/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/srjpandey/leetcode/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/srjpandey/leetcode/tree/master/0274-h-index) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/srjpandey/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 ## String
 |  |
 | ------- |
@@ -161,6 +163,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srjpandey/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/srjpandey/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/srjpandey/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/srjpandey/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2716-prime-subtraction-operation](https://github.com/srjpandey/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Tree
 |  |
