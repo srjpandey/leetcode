@@ -153,6 +153,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0067-add-binary](https://github.com/srjpandey/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/srjpandey/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/srjpandey/leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/srjpandey/leetcode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/srjpandey/leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/srjpandey/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -330,6 +331,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0077-combinations](https://github.com/srjpandey/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/srjpandey/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/srjpandey/leetcode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/srjpandey/leetcode/tree/master/0089-gray-code) |
 ## Simulation
 |  |
 | ------- |
@@ -374,6 +376,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0029-divide-two-integers](https://github.com/srjpandey/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/srjpandey/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/srjpandey/leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/srjpandey/leetcode/tree/master/0089-gray-code) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/srjpandey/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/srjpandey/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Sliding Window
