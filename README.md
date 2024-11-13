@@ -157,6 +157,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0069-sqrtx](https://github.com/srjpandey/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/srjpandey/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/srjpandey/leetcode/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/srjpandey/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/srjpandey/leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/srjpandey/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -219,6 +220,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0087-scramble-string](https://github.com/srjpandey/leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/srjpandey/leetcode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/srjpandey/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/srjpandey/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/srjpandey/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srjpandey/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srjpandey/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -245,6 +247,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/srjpandey/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/srjpandey/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
@@ -260,6 +263,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/srjpandey/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/srjpandey/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Divide and Conquer
 |  |
@@ -415,4 +419,5 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/srjpandey/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/srjpandey/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
