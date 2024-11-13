@@ -62,6 +62,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/srjpandey/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/srjpandey/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/srjpandey/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/srjpandey/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/srjpandey/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Two Pointers
@@ -86,6 +87,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0392-is-subsequence](https://github.com/srjpandey/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/srjpandey/leetcode/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/srjpandey/leetcode/tree/master/1894-merge-strings-alternately) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/srjpandey/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +99,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0088-merge-sorted-array](https://github.com/srjpandey/leetcode/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/srjpandey/leetcode/tree/master/0274-h-index) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/srjpandey/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/srjpandey/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String
 |  |
 | ------- |
@@ -224,6 +227,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0209-minimum-size-subarray-sum](https://github.com/srjpandey/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/srjpandey/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/srjpandey/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/srjpandey/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/srjpandey/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Tree
 |  |
