@@ -253,6 +253,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0098-validate-binary-search-tree](https://github.com/srjpandey/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/srjpandey/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/srjpandey/leetcode/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/srjpandey/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
@@ -266,6 +267,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/srjpandey/leetcode/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/srjpandey/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
@@ -276,6 +278,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0098-validate-binary-search-tree](https://github.com/srjpandey/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/srjpandey/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/srjpandey/leetcode/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/srjpandey/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Divide and Conquer
 |  |
