@@ -50,6 +50,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0088-merge-sorted-array](https://github.com/srjpandey/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/srjpandey/leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srjpandey/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srjpandey/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/srjpandey/leetcode/tree/master/0134-gas-station) |
@@ -263,6 +264,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0102-binary-tree-level-order-traversal](https://github.com/srjpandey/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/srjpandey/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
@@ -291,6 +293,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0102-binary-tree-level-order-traversal](https://github.com/srjpandey/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/srjpandey/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Divide and Conquer
 |  |
@@ -299,6 +302,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0023-merge-k-sorted-lists](https://github.com/srjpandey/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/srjpandey/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Recursion
 |  |
 | ------- |
@@ -355,6 +359,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0049-group-anagrams](https://github.com/srjpandey/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/srjpandey/leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Monotonic Stack
 |  |
