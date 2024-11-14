@@ -409,6 +409,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/srjpandey/leetcode/tree/master/0014-longest-common-prefix) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/srjpandey/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## String Matching
 |  |
 | ------- |
