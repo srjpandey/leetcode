@@ -274,6 +274,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0110-balanced-binary-tree](https://github.com/srjpandey/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/srjpandey/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/srjpandey/leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/srjpandey/leetcode/tree/master/0113-path-sum-ii) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
@@ -285,6 +286,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0110-balanced-binary-tree](https://github.com/srjpandey/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/srjpandey/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/srjpandey/leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/srjpandey/leetcode/tree/master/0113-path-sum-ii) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Breadth-First Search
 |  |
@@ -314,6 +316,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0110-balanced-binary-tree](https://github.com/srjpandey/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/srjpandey/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/srjpandey/leetcode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/srjpandey/leetcode/tree/master/0113-path-sum-ii) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Divide and Conquer
 |  |
@@ -409,6 +412,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0090-subsets-ii](https://github.com/srjpandey/leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/srjpandey/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/srjpandey/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0113-path-sum-ii](https://github.com/srjpandey/leetcode/tree/master/0113-path-sum-ii) |
 ## Simulation
 |  |
 | ------- |
