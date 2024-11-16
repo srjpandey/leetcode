@@ -52,6 +52,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0119-pascals-triangle-ii](https://github.com/srjpandey/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/srjpandey/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srjpandey/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srjpandey/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/srjpandey/leetcode/tree/master/0134-gas-station) |
@@ -235,6 +236,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0097-interleaving-string](https://github.com/srjpandey/leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/srjpandey/leetcode/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/srjpandey/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/srjpandey/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srjpandey/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srjpandey/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/srjpandey/leetcode/tree/master/0392-is-subsequence) |
