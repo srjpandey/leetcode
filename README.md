@@ -241,6 +241,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srjpandey/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srjpandey/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/srjpandey/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/srjpandey/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/srjpandey/leetcode/tree/master/0392-is-subsequence) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/srjpandey/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/srjpandey/leetcode/tree/master/2554-minimum-total-distance-traveled) |
@@ -283,6 +284,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0113-path-sum-ii](https://github.com/srjpandey/leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/srjpandey/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/srjpandey/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/srjpandey/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
@@ -297,6 +299,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0113-path-sum-ii](https://github.com/srjpandey/leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/srjpandey/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/srjpandey/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/srjpandey/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Breadth-First Search
 |  |
@@ -331,6 +334,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0113-path-sum-ii](https://github.com/srjpandey/leetcode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/srjpandey/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/srjpandey/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/srjpandey/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Divide and Conquer
 |  |
