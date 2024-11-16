@@ -275,6 +275,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0111-minimum-depth-of-binary-tree](https://github.com/srjpandey/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/srjpandey/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/srjpandey/leetcode/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/srjpandey/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
@@ -287,6 +288,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0111-minimum-depth-of-binary-tree](https://github.com/srjpandey/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/srjpandey/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/srjpandey/leetcode/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/srjpandey/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Breadth-First Search
 |  |
@@ -297,6 +299,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/srjpandey/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/srjpandey/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/srjpandey/leetcode/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/srjpandey/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
@@ -317,6 +320,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0111-minimum-depth-of-binary-tree](https://github.com/srjpandey/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/srjpandey/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/srjpandey/leetcode/tree/master/0113-path-sum-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/srjpandey/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Divide and Conquer
 |  |
@@ -354,6 +358,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0086-partition-list](https://github.com/srjpandey/leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/srjpandey/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/srjpandey/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/srjpandey/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
