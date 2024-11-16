@@ -72,6 +72,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [2699-count-the-number-of-fair-pairs](https://github.com/srjpandey/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/srjpandey/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/srjpandey/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/srjpandey/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -462,6 +463,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0076-minimum-window-substring](https://github.com/srjpandey/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/srjpandey/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/srjpandey/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/srjpandey/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Combinatorics
 |  |
 | ------- |
