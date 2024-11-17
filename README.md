@@ -61,6 +61,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0134-gas-station](https://github.com/srjpandey/leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/srjpandey/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/srjpandey/leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/srjpandey/leetcode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srjpandey/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/srjpandey/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/srjpandey/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -156,6 +157,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0126-word-ladder-ii](https://github.com/srjpandey/leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/srjpandey/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/srjpandey/leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/srjpandey/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/srjpandey/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/srjpandey/leetcode/tree/master/0214-shortest-palindrome) |
 | [0392-is-subsequence](https://github.com/srjpandey/leetcode/tree/master/0392-is-subsequence) |
@@ -254,6 +256,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0124-binary-tree-maximum-path-sum](https://github.com/srjpandey/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/srjpandey/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/srjpandey/leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/srjpandey/leetcode/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/srjpandey/leetcode/tree/master/0392-is-subsequence) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/srjpandey/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/srjpandey/leetcode/tree/master/2554-minimum-total-distance-traveled) |
@@ -433,6 +436,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0128-longest-consecutive-sequence](https://github.com/srjpandey/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/srjpandey/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/srjpandey/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/srjpandey/leetcode/tree/master/0139-word-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Monotonic Stack
 |  |
@@ -497,6 +501,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/srjpandey/leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/srjpandey/leetcode/tree/master/0139-word-break) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/srjpandey/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## String Matching
 |  |
@@ -534,6 +539,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/srjpandey/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/srjpandey/leetcode/tree/master/0139-word-break) |
 ## Binary Search Tree
 |  |
 | ------- |
