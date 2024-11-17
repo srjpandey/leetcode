@@ -57,6 +57,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srjpandey/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/srjpandey/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/srjpandey/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/srjpandey/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/srjpandey/leetcode/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srjpandey/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/srjpandey/leetcode/tree/master/0189-rotate-array) |
@@ -308,6 +309,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/srjpandey/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/srjpandey/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/srjpandey/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/srjpandey/leetcode/tree/master/0130-surrounded-regions) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Breadth-First Search
 |  |
@@ -321,6 +323,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/srjpandey/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/srjpandey/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/srjpandey/leetcode/tree/master/0126-word-ladder-ii) |
+| [0130-surrounded-regions](https://github.com/srjpandey/leetcode/tree/master/0130-surrounded-regions) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
@@ -465,6 +468,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0064-minimum-path-sum](https://github.com/srjpandey/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/srjpandey/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/srjpandey/leetcode/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/srjpandey/leetcode/tree/master/0130-surrounded-regions) |
 ## Counting Sort
 |  |
 | ------- |
@@ -544,4 +548,5 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/srjpandey/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/srjpandey/leetcode/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
