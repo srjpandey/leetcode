@@ -395,6 +395,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/srjpandey/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/srjpandey/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/srjpandey/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/srjpandey/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -431,6 +432,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0126-word-ladder-ii](https://github.com/srjpandey/leetcode/tree/master/0126-word-ladder-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/srjpandey/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/srjpandey/leetcode/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/srjpandey/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Monotonic Stack
 |  |
