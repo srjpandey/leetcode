@@ -166,6 +166,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0140-word-break-ii](https://github.com/srjpandey/leetcode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/srjpandey/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/srjpandey/leetcode/tree/master/0214-shortest-palindrome) |
+| [0383-ransom-note](https://github.com/srjpandey/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/srjpandey/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/srjpandey/leetcode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/srjpandey/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -451,6 +452,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0141-linked-list-cycle](https://github.com/srjpandey/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/srjpandey/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/srjpandey/leetcode/tree/master/0383-ransom-note) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -506,6 +508,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/srjpandey/leetcode/tree/master/0274-h-index) |
+| [0383-ransom-note](https://github.com/srjpandey/leetcode/tree/master/0383-ransom-note) |
 ## Design
 |  |
 | ------- |
