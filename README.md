@@ -165,6 +165,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0139-word-break](https://github.com/srjpandey/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/srjpandey/leetcode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/srjpandey/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/srjpandey/leetcode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/srjpandey/leetcode/tree/master/0214-shortest-palindrome) |
 | [0383-ransom-note](https://github.com/srjpandey/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/srjpandey/leetcode/tree/master/0392-is-subsequence) |
@@ -451,6 +452,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0140-word-break-ii](https://github.com/srjpandey/leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/srjpandey/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/srjpandey/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0205-isomorphic-strings](https://github.com/srjpandey/leetcode/tree/master/0205-isomorphic-strings) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/srjpandey/leetcode/tree/master/0383-ransom-note) |
 ## Monotonic Stack
