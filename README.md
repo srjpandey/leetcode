@@ -107,6 +107,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0141-linked-list-cycle](https://github.com/srjpandey/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/srjpandey/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/srjpandey/leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/srjpandey/leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/srjpandey/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srjpandey/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/srjpandey/leetcode/tree/master/0189-rotate-array) |
@@ -126,6 +127,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0056-merge-intervals](https://github.com/srjpandey/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/srjpandey/leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/srjpandey/leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/srjpandey/leetcode/tree/master/0148-sort-list) |
 | [0274-h-index](https://github.com/srjpandey/leetcode/tree/master/0274-h-index) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/srjpandey/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2554-minimum-total-distance-traveled](https://github.com/srjpandey/leetcode/tree/master/2554-minimum-total-distance-traveled) |
@@ -387,6 +389,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/srjpandey/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/srjpandey/leetcode/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -423,6 +426,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0143-reorder-list](https://github.com/srjpandey/leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/srjpandey/leetcode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/srjpandey/leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/srjpandey/leetcode/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -432,6 +436,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/srjpandey/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/srjpandey/leetcode/tree/master/0148-sort-list) |
 ## Stack
 |  |
 | ------- |
