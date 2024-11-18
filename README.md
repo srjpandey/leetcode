@@ -130,6 +130,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0088-merge-sorted-array](https://github.com/srjpandey/leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/srjpandey/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/srjpandey/leetcode/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/srjpandey/leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/srjpandey/leetcode/tree/master/0274-h-index) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/srjpandey/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2554-minimum-total-distance-traveled](https://github.com/srjpandey/leetcode/tree/master/2554-minimum-total-distance-traveled) |
@@ -174,6 +175,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0151-reverse-words-in-a-string](https://github.com/srjpandey/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/srjpandey/leetcode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/srjpandey/leetcode/tree/master/0214-shortest-palindrome) |
+| [0242-valid-anagram](https://github.com/srjpandey/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/srjpandey/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/srjpandey/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/srjpandey/leetcode/tree/master/0392-is-subsequence) |
@@ -482,6 +484,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0146-lru-cache](https://github.com/srjpandey/leetcode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/srjpandey/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0205-isomorphic-strings](https://github.com/srjpandey/leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/srjpandey/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/srjpandey/leetcode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/srjpandey/leetcode/tree/master/0383-ransom-note) |
