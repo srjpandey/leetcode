@@ -420,6 +420,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0141-linked-list-cycle](https://github.com/srjpandey/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/srjpandey/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/srjpandey/leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/srjpandey/leetcode/tree/master/0146-lru-cache) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -465,6 +466,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0140-word-break-ii](https://github.com/srjpandey/leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/srjpandey/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/srjpandey/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/srjpandey/leetcode/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/srjpandey/leetcode/tree/master/0205-isomorphic-strings) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/srjpandey/leetcode/tree/master/0383-ransom-note) |
@@ -527,6 +529,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/srjpandey/leetcode/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -611,4 +614,8 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/srjpandey/leetcode/tree/master/0133-clone-graph) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/srjpandey/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
