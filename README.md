@@ -174,6 +174,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0151-reverse-words-in-a-string](https://github.com/srjpandey/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/srjpandey/leetcode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/srjpandey/leetcode/tree/master/0214-shortest-palindrome) |
+| [0290-word-pattern](https://github.com/srjpandey/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/srjpandey/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/srjpandey/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/srjpandey/leetcode/tree/master/0443-string-compression) |
@@ -481,6 +482,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0146-lru-cache](https://github.com/srjpandey/leetcode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/srjpandey/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0205-isomorphic-strings](https://github.com/srjpandey/leetcode/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/srjpandey/leetcode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/srjpandey/leetcode/tree/master/0383-ransom-note) |
 ## Monotonic Stack
