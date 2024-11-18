@@ -113,6 +113,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0151-reverse-words-in-a-string](https://github.com/srjpandey/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srjpandey/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/srjpandey/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/srjpandey/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/srjpandey/leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/srjpandey/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/srjpandey/leetcode/tree/master/0443-string-compression) |
@@ -203,6 +204,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0149-max-points-on-a-line](https://github.com/srjpandey/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srjpandey/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/srjpandey/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/srjpandey/leetcode/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/srjpandey/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1585-the-kth-factor-of-n](https://github.com/srjpandey/leetcode/tree/master/1585-the-kth-factor-of-n) |
@@ -483,6 +485,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0142-linked-list-cycle-ii](https://github.com/srjpandey/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/srjpandey/leetcode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/srjpandey/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0202-happy-number](https://github.com/srjpandey/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/srjpandey/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/srjpandey/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/srjpandey/leetcode/tree/master/0290-word-pattern) |
