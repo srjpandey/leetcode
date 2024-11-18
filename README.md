@@ -181,6 +181,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0151-reverse-words-in-a-string](https://github.com/srjpandey/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/srjpandey/leetcode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/srjpandey/leetcode/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/srjpandey/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/srjpandey/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/srjpandey/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/srjpandey/leetcode/tree/master/0383-ransom-note) |
@@ -210,6 +211,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0150-evaluate-reverse-polish-notation](https://github.com/srjpandey/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/srjpandey/leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/srjpandey/leetcode/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/srjpandey/leetcode/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/srjpandey/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1585-the-kth-factor-of-n](https://github.com/srjpandey/leetcode/tree/master/1585-the-kth-factor-of-n) |
@@ -417,6 +419,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0050-powx-n](https://github.com/srjpandey/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/srjpandey/leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/srjpandey/leetcode/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/srjpandey/leetcode/tree/master/0224-basic-calculator) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/srjpandey/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Linked List
 |  |
@@ -466,6 +469,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0145-binary-tree-postorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srjpandey/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/srjpandey/leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/srjpandey/leetcode/tree/master/0224-basic-calculator) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/srjpandey/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Hash Table
 |  |
