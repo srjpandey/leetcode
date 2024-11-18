@@ -64,6 +64,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0137-single-number-ii](https://github.com/srjpandey/leetcode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/srjpandey/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/srjpandey/leetcode/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/srjpandey/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srjpandey/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/srjpandey/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/srjpandey/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -195,6 +196,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0070-climbing-stairs](https://github.com/srjpandey/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/srjpandey/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/srjpandey/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/srjpandey/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/srjpandey/leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/srjpandey/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -474,6 +476,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0141-linked-list-cycle](https://github.com/srjpandey/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/srjpandey/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/srjpandey/leetcode/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/srjpandey/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0205-isomorphic-strings](https://github.com/srjpandey/leetcode/tree/master/0205-isomorphic-strings) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/srjpandey/leetcode/tree/master/0383-ransom-note) |
@@ -625,4 +628,8 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/srjpandey/leetcode/tree/master/0146-lru-cache) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/srjpandey/leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
