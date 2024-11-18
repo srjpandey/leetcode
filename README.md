@@ -314,6 +314,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0124-binary-tree-maximum-path-sum](https://github.com/srjpandey/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/srjpandey/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
@@ -333,6 +334,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0130-surrounded-regions](https://github.com/srjpandey/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/srjpandey/leetcode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Breadth-First Search
 |  |
@@ -373,6 +375,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0124-binary-tree-maximum-path-sum](https://github.com/srjpandey/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/srjpandey/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Divide and Conquer
 |  |
@@ -436,6 +439,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0094-binary-tree-inorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/srjpandey/leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/srjpandey/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Hash Table
 |  |
