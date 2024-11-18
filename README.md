@@ -69,6 +69,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srjpandey/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/srjpandey/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/srjpandey/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/srjpandey/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/srjpandey/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/srjpandey/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/srjpandey/leetcode/tree/master/0283-move-zeroes) |
@@ -487,6 +488,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0149-max-points-on-a-line](https://github.com/srjpandey/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/srjpandey/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/srjpandey/leetcode/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/srjpandey/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/srjpandey/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/srjpandey/leetcode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -587,6 +589,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/srjpandey/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/srjpandey/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/srjpandey/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/srjpandey/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/srjpandey/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1138-grumpy-bookstore-owner](https://github.com/srjpandey/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1755-defuse-the-bomb](https://github.com/srjpandey/leetcode/tree/master/1755-defuse-the-bomb) |
