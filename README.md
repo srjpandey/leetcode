@@ -76,6 +76,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0283-move-zeroes](https://github.com/srjpandey/leetcode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/srjpandey/leetcode/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/srjpandey/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/srjpandey/leetcode/tree/master/0605-can-place-flowers) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/srjpandey/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1138-grumpy-bookstore-owner](https://github.com/srjpandey/leetcode/tree/master/1138-grumpy-bookstore-owner) |
@@ -135,6 +136,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0148-sort-list](https://github.com/srjpandey/leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/srjpandey/leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/srjpandey/leetcode/tree/master/0274-h-index) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/srjpandey/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/srjpandey/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2554-minimum-total-distance-traveled](https://github.com/srjpandey/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/srjpandey/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -221,6 +223,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0055-jump-game](https://github.com/srjpandey/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srjpandey/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/srjpandey/leetcode/tree/master/0134-gas-station) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/srjpandey/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/srjpandey/leetcode/tree/master/0605-can-place-flowers) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/srjpandey/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2716-prime-subtraction-operation](https://github.com/srjpandey/leetcode/tree/master/2716-prime-subtraction-operation) |
