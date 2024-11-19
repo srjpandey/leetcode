@@ -189,6 +189,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0151-reverse-words-in-a-string](https://github.com/srjpandey/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/srjpandey/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/srjpandey/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/srjpandey/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/srjpandey/leetcode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/srjpandey/leetcode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/srjpandey/leetcode/tree/master/0224-basic-calculator) |
@@ -386,6 +387,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0200-number-of-islands](https://github.com/srjpandey/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/srjpandey/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/srjpandey/leetcode/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/srjpandey/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/srjpandey/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/srjpandey/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/srjpandey/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -638,6 +640,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0155-min-stack](https://github.com/srjpandey/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/srjpandey/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/srjpandey/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/srjpandey/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -650,6 +653,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0139-word-break](https://github.com/srjpandey/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/srjpandey/leetcode/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/srjpandey/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/srjpandey/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/srjpandey/leetcode/tree/master/0212-word-search-ii) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/srjpandey/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## String Matching
