@@ -191,6 +191,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0290-word-pattern](https://github.com/srjpandey/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/srjpandey/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/srjpandey/leetcode/tree/master/0392-is-subsequence) |
+| [0433-minimum-genetic-mutation](https://github.com/srjpandey/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/srjpandey/leetcode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/srjpandey/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/srjpandey/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -399,6 +400,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0133-clone-graph](https://github.com/srjpandey/leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/srjpandey/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/srjpandey/leetcode/tree/master/0226-invert-binary-tree) |
+| [0433-minimum-genetic-mutation](https://github.com/srjpandey/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/srjpandey/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/srjpandey/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -548,6 +550,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0290-word-pattern](https://github.com/srjpandey/leetcode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/srjpandey/leetcode/tree/master/0383-ransom-note) |
+| [0433-minimum-genetic-mutation](https://github.com/srjpandey/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srjpandey/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Stack
 |  |
