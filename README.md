@@ -84,6 +84,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/srjpandey/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/srjpandey/leetcode/tree/master/0605-can-place-flowers) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/srjpandey/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0945-snakes-and-ladders](https://github.com/srjpandey/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1138-grumpy-bookstore-owner](https://github.com/srjpandey/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/srjpandey/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/srjpandey/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -414,6 +415,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0433-minimum-genetic-mutation](https://github.com/srjpandey/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/srjpandey/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/srjpandey/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0945-snakes-and-ladders](https://github.com/srjpandey/leetcode/tree/master/0945-snakes-and-ladders) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
@@ -618,6 +620,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0212-word-search-ii](https://github.com/srjpandey/leetcode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/srjpandey/leetcode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/srjpandey/leetcode/tree/master/0289-game-of-life) |
+| [0945-snakes-and-ladders](https://github.com/srjpandey/leetcode/tree/master/0945-snakes-and-ladders) |
 ## Counting Sort
 |  |
 | ------- |
