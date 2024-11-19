@@ -13,30 +13,18 @@
  */
 
 function sumNumbers(root: TreeNode | null): number {
-    if(!root) return 0;
-    // root to leaf paths
-    const results = []
-    solve(root, [root.val], results)
-    return results.reduce((acc, curr) => acc += curr, 0)
+    //11:59
+    function addSum(node: TreeNode | null, curValue:string, sum: number):number {
+        if (node === null) {
+            return sum
+        }
+        curValue += node.val.toString()
+        if (node.left === null && node.right === null) {
+            
+            return sum + parseInt(curValue)
+        }
+        return addSum(node.left, curValue, sum) + addSum(node.right, curValue, sum)
+    }
+    return addSum(root, '', 0);
+    //12:18
 };
-
-function solve(root: TreeNode | null, path: number[], results: number[]) {
-    // termination condition
-    if(!root.left && !root.right) {
-        // add to results
-        const pathInt = Number(path.join(''))
-        results.push(pathInt)
-        return;
-    }
-
-    for(const child of [root.left, root.right]) {
-        // valid
-        if(!child) continue
-        // select
-        path.push(child.val)
-        // backtrack
-        solve(child, path, results)
-        // deselect
-        path.pop()
-    }
-}
