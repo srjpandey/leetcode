@@ -85,6 +85,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0605-can-place-flowers](https://github.com/srjpandey/leetcode/tree/master/0605-can-place-flowers) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/srjpandey/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0945-snakes-and-ladders](https://github.com/srjpandey/leetcode/tree/master/0945-snakes-and-ladders) |
+| [0954-maximum-sum-circular-subarray](https://github.com/srjpandey/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1138-grumpy-bookstore-owner](https://github.com/srjpandey/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/srjpandey/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/srjpandey/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -304,6 +305,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/srjpandey/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/srjpandey/leetcode/tree/master/0221-maximal-square) |
 | [0392-is-subsequence](https://github.com/srjpandey/leetcode/tree/master/0392-is-subsequence) |
+| [0954-maximum-sum-circular-subarray](https://github.com/srjpandey/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/srjpandey/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/srjpandey/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 ## Binary Search
@@ -468,6 +470,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/srjpandey/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/srjpandey/leetcode/tree/master/0148-sort-list) |
+| [0954-maximum-sum-circular-subarray](https://github.com/srjpandey/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -721,10 +724,12 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/srjpandey/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0954-maximum-sum-circular-subarray](https://github.com/srjpandey/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/srjpandey/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0954-maximum-sum-circular-subarray](https://github.com/srjpandey/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Union Find
 |  |
 | ------- |
