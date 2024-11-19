@@ -70,6 +70,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0189-rotate-array](https://github.com/srjpandey/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/srjpandey/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/srjpandey/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/srjpandey/leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/srjpandey/leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/srjpandey/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/srjpandey/leetcode/tree/master/0274-h-index) |
@@ -289,6 +290,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0132-palindrome-partitioning-ii](https://github.com/srjpandey/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/srjpandey/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/srjpandey/leetcode/tree/master/0140-word-break-ii) |
+| [0221-maximal-square](https://github.com/srjpandey/leetcode/tree/master/0221-maximal-square) |
 | [0392-is-subsequence](https://github.com/srjpandey/leetcode/tree/master/0392-is-subsequence) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/srjpandey/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/srjpandey/leetcode/tree/master/2554-minimum-total-distance-traveled) |
@@ -593,6 +595,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0074-search-a-2d-matrix](https://github.com/srjpandey/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/srjpandey/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/srjpandey/leetcode/tree/master/0130-surrounded-regions) |
+| [0221-maximal-square](https://github.com/srjpandey/leetcode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/srjpandey/leetcode/tree/master/0289-game-of-life) |
 ## Counting Sort
 |  |
