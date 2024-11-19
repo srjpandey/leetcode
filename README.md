@@ -304,6 +304,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/srjpandey/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srjpandey/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/srjpandey/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/srjpandey/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/srjpandey/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/srjpandey/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/srjpandey/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -339,6 +340,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0144-binary-tree-preorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/srjpandey/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/srjpandey/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/srjpandey/leetcode/tree/master/0226-invert-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
@@ -409,6 +411,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0144-binary-tree-preorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/srjpandey/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/srjpandey/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/srjpandey/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/srjpandey/leetcode/tree/master/0226-invert-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Divide and Conquer
@@ -611,6 +614,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0090-subsets-ii](https://github.com/srjpandey/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/srjpandey/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/srjpandey/leetcode/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/srjpandey/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/srjpandey/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/srjpandey/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Sliding Window
