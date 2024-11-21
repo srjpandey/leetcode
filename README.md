@@ -96,6 +96,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/srjpandey/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/srjpandey/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/srjpandey/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/srjpandey/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srjpandey/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/srjpandey/leetcode/tree/master/2554-minimum-total-distance-traveled) |
@@ -624,6 +625,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0067-add-binary](https://github.com/srjpandey/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/srjpandey/leetcode/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/srjpandey/leetcode/tree/master/0289-game-of-life) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/srjpandey/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -643,6 +645,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0289-game-of-life](https://github.com/srjpandey/leetcode/tree/master/0289-game-of-life) |
 | [0772-construct-quad-tree](https://github.com/srjpandey/leetcode/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/srjpandey/leetcode/tree/master/0945-snakes-and-ladders) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/srjpandey/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Counting Sort
 |  |
 | ------- |
