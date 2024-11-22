@@ -90,6 +90,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0945-snakes-and-ladders](https://github.com/srjpandey/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/srjpandey/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1138-grumpy-bookstore-owner](https://github.com/srjpandey/leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/srjpandey/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/srjpandey/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/srjpandey/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/srjpandey/leetcode/tree/master/1755-defuse-the-bomb) |
@@ -607,6 +608,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/srjpandey/leetcode/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/srjpandey/leetcode/tree/master/0433-minimum-genetic-mutation) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/srjpandey/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srjpandey/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/srjpandey/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Monotonic Stack
@@ -667,6 +669,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0289-game-of-life](https://github.com/srjpandey/leetcode/tree/master/0289-game-of-life) |
 | [0772-construct-quad-tree](https://github.com/srjpandey/leetcode/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/srjpandey/leetcode/tree/master/0945-snakes-and-ladders) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/srjpandey/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/srjpandey/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Counting Sort
 |  |
