@@ -95,6 +95,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/srjpandey/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/srjpandey/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/srjpandey/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2089-maximum-matrix-sum](https://github.com/srjpandey/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/srjpandey/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/srjpandey/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/srjpandey/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -249,6 +250,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/srjpandey/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/srjpandey/leetcode/tree/master/0605-can-place-flowers) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/srjpandey/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2089-maximum-matrix-sum](https://github.com/srjpandey/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2716-prime-subtraction-operation](https://github.com/srjpandey/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Prefix Sum
 |  |
@@ -670,6 +672,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0772-construct-quad-tree](https://github.com/srjpandey/leetcode/tree/master/0772-construct-quad-tree) |
 | [0945-snakes-and-ladders](https://github.com/srjpandey/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/srjpandey/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [2089-maximum-matrix-sum](https://github.com/srjpandey/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/srjpandey/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Counting Sort
 |  |
