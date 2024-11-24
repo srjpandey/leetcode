@@ -262,6 +262,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0180-consecutive-numbers](https://github.com/srjpandey/leetcode/tree/master/0180-consecutive-numbers) |
+| [0185-department-top-three-salaries](https://github.com/srjpandey/leetcode/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/srjpandey/leetcode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/srjpandey/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/srjpandey/leetcode/tree/master/0577-employee-bonus) |
