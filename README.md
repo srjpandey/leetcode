@@ -86,6 +86,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/srjpandey/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/srjpandey/leetcode/tree/master/0605-can-place-flowers) |
 | [0772-construct-quad-tree](https://github.com/srjpandey/leetcode/tree/master/0772-construct-quad-tree) |
+| [0787-sliding-puzzle](https://github.com/srjpandey/leetcode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/srjpandey/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0945-snakes-and-ladders](https://github.com/srjpandey/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/srjpandey/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -471,6 +472,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0433-minimum-genetic-mutation](https://github.com/srjpandey/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/srjpandey/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/srjpandey/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0787-sliding-puzzle](https://github.com/srjpandey/leetcode/tree/master/0787-sliding-puzzle) |
 | [0945-snakes-and-ladders](https://github.com/srjpandey/leetcode/tree/master/0945-snakes-and-ladders) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
@@ -687,6 +689,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0221-maximal-square](https://github.com/srjpandey/leetcode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/srjpandey/leetcode/tree/master/0289-game-of-life) |
 | [0772-construct-quad-tree](https://github.com/srjpandey/leetcode/tree/master/0772-construct-quad-tree) |
+| [0787-sliding-puzzle](https://github.com/srjpandey/leetcode/tree/master/0787-sliding-puzzle) |
 | [0945-snakes-and-ladders](https://github.com/srjpandey/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/srjpandey/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2089-maximum-matrix-sum](https://github.com/srjpandey/leetcode/tree/master/2089-maximum-matrix-sum) |
