@@ -222,6 +222,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0290-word-pattern](https://github.com/srjpandey/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/srjpandey/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/srjpandey/leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/srjpandey/leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/srjpandey/leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/srjpandey/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/srjpandey/leetcode/tree/master/0443-string-compression) |
@@ -578,6 +579,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0060-permutation-sequence](https://github.com/srjpandey/leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/srjpandey/leetcode/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/srjpandey/leetcode/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/srjpandey/leetcode/tree/master/0394-decode-string) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/srjpandey/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Linked List
 |  |
@@ -632,6 +634,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0155-min-stack](https://github.com/srjpandey/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/srjpandey/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/srjpandey/leetcode/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/srjpandey/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/srjpandey/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/srjpandey/leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/srjpandey/leetcode/tree/master/0937-online-stock-span) |
