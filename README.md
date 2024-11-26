@@ -106,6 +106,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/srjpandey/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/srjpandey/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/srjpandey/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/srjpandey/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2089-maximum-matrix-sum](https://github.com/srjpandey/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/srjpandey/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/srjpandey/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -499,6 +500,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0637-average-of-levels-in-binary-tree](https://github.com/srjpandey/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0787-sliding-puzzle](https://github.com/srjpandey/leetcode/tree/master/0787-sliding-puzzle) |
 | [0945-snakes-and-ladders](https://github.com/srjpandey/leetcode/tree/master/0945-snakes-and-ladders) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/srjpandey/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
@@ -724,6 +726,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0787-sliding-puzzle](https://github.com/srjpandey/leetcode/tree/master/0787-sliding-puzzle) |
 | [0945-snakes-and-ladders](https://github.com/srjpandey/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/srjpandey/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/srjpandey/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2089-maximum-matrix-sum](https://github.com/srjpandey/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/srjpandey/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Counting Sort
