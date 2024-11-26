@@ -213,6 +213,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0433-minimum-genetic-mutation](https://github.com/srjpandey/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/srjpandey/leetcode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/srjpandey/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/srjpandey/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/srjpandey/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2487-optimal-partition-of-string](https://github.com/srjpandey/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/srjpandey/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -756,6 +757,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0643-maximum-average-subarray-i](https://github.com/srjpandey/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/srjpandey/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1138-grumpy-bookstore-owner](https://github.com/srjpandey/leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/srjpandey/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/srjpandey/leetcode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srjpandey/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/srjpandey/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
