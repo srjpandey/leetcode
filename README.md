@@ -607,6 +607,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0173-binary-search-tree-iterator](https://github.com/srjpandey/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/srjpandey/leetcode/tree/master/0224-basic-calculator) |
 | [0739-daily-temperatures](https://github.com/srjpandey/leetcode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/srjpandey/leetcode/tree/master/0937-online-stock-span) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/srjpandey/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Hash Table
 |  |
@@ -655,6 +656,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0042-trapping-rain-water](https://github.com/srjpandey/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/srjpandey/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/srjpandey/leetcode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/srjpandey/leetcode/tree/master/0937-online-stock-span) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/srjpandey/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Backtracking
 |  |
@@ -726,6 +728,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0208-implement-trie-prefix-tree](https://github.com/srjpandey/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/srjpandey/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0937-online-stock-span](https://github.com/srjpandey/leetcode/tree/master/0937-online-stock-span) |
 ## Randomized
 |  |
 | ------- |
@@ -853,4 +856,8 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | ------- |
 | [0207-course-schedule](https://github.com/srjpandey/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/srjpandey/leetcode/tree/master/0210-course-schedule-ii) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/srjpandey/leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
