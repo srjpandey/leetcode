@@ -224,6 +224,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0399-evaluate-division](https://github.com/srjpandey/leetcode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/srjpandey/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/srjpandey/leetcode/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/srjpandey/leetcode/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/srjpandey/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1397-search-suggestions-system](https://github.com/srjpandey/leetcode/tree/master/1397-search-suggestions-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/srjpandey/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -270,6 +271,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0435-non-overlapping-intervals](https://github.com/srjpandey/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/srjpandey/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/srjpandey/leetcode/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/srjpandey/leetcode/tree/master/0649-dota2-senate) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/srjpandey/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-maximum-matrix-sum](https://github.com/srjpandey/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2487-optimal-partition-of-string](https://github.com/srjpandey/leetcode/tree/master/2487-optimal-partition-of-string) |
@@ -845,6 +847,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/srjpandey/leetcode/tree/master/0649-dota2-senate) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/srjpandey/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/srjpandey/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/srjpandey/leetcode/tree/master/0969-number-of-recent-calls) |
