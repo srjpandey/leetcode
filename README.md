@@ -442,6 +442,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0637-average-of-levels-in-binary-tree](https://github.com/srjpandey/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/srjpandey/leetcode/tree/master/0772-construct-quad-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/srjpandey/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/srjpandey/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
@@ -475,6 +476,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0399-evaluate-division](https://github.com/srjpandey/leetcode/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/srjpandey/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/srjpandey/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/srjpandey/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Breadth-First Search
 |  |
@@ -504,6 +506,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0787-sliding-puzzle](https://github.com/srjpandey/leetcode/tree/master/0787-sliding-puzzle) |
 | [0945-snakes-and-ladders](https://github.com/srjpandey/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/srjpandey/leetcode/tree/master/1036-rotting-oranges) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/srjpandey/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/srjpandey/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
@@ -544,6 +547,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/srjpandey/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/srjpandey/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/srjpandey/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/srjpandey/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Divide and Conquer
 |  |
