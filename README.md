@@ -85,6 +85,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0399-evaluate-division](https://github.com/srjpandey/leetcode/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/srjpandey/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/srjpandey/leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/srjpandey/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0772-construct-quad-tree](https://github.com/srjpandey/leetcode/tree/master/0772-construct-quad-tree) |
 | [0787-sliding-puzzle](https://github.com/srjpandey/leetcode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/srjpandey/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -752,6 +753,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0076-minimum-window-substring](https://github.com/srjpandey/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/srjpandey/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/srjpandey/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/srjpandey/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/srjpandey/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1138-grumpy-bookstore-owner](https://github.com/srjpandey/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1755-defuse-the-bomb](https://github.com/srjpandey/leetcode/tree/master/1755-defuse-the-bomb) |
