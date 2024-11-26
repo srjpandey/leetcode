@@ -440,6 +440,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/srjpandey/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/srjpandey/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/srjpandey/leetcode/tree/master/0772-construct-quad-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/srjpandey/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
@@ -540,6 +541,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/srjpandey/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/srjpandey/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/srjpandey/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/srjpandey/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Divide and Conquer
 |  |
@@ -823,6 +825,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0173-binary-search-tree-iterator](https://github.com/srjpandey/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/srjpandey/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/srjpandey/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/srjpandey/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Rolling Hash
 |  |
 | ------- |
