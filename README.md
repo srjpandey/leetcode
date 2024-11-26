@@ -755,6 +755,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0211-design-add-and-search-words-data-structure](https://github.com/srjpandey/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/srjpandey/leetcode/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/srjpandey/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Randomized
 |  |
 | ------- |
@@ -846,6 +847,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/srjpandey/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0954-maximum-sum-circular-subarray](https://github.com/srjpandey/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0969-number-of-recent-calls](https://github.com/srjpandey/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -891,4 +893,5 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/srjpandey/leetcode/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/srjpandey/leetcode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
