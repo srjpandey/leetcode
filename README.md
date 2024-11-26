@@ -100,6 +100,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [1046-max-consecutive-ones-iii](https://github.com/srjpandey/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/srjpandey/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/srjpandey/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/srjpandey/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/srjpandey/leetcode/tree/master/1397-search-suggestions-system) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/srjpandey/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/srjpandey/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -676,6 +677,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0383-ransom-note](https://github.com/srjpandey/leetcode/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/srjpandey/leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/srjpandey/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/srjpandey/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/srjpandey/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2487-optimal-partition-of-string](https://github.com/srjpandey/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srjpandey/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
