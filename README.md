@@ -116,6 +116,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [2179-most-beautiful-item-for-each-query](https://github.com/srjpandey/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/srjpandey/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/srjpandey/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/srjpandey/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/srjpandey/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srjpandey/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -160,6 +161,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [1894-merge-strings-alternately](https://github.com/srjpandey/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/srjpandey/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/srjpandey/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/srjpandey/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/srjpandey/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/srjpandey/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
@@ -182,6 +184,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [1777-determine-if-two-strings-are-close](https://github.com/srjpandey/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/srjpandey/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/srjpandey/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/srjpandey/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2554-minimum-total-distance-traveled](https://github.com/srjpandey/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2636-maximum-subsequence-score](https://github.com/srjpandey/leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/srjpandey/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -422,6 +425,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/srjpandey/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/srjpandey/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/srjpandey/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/srjpandey/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/srjpandey/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/srjpandey/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Tree
