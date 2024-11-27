@@ -650,6 +650,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0215-kth-largest-element-in-an-array](https://github.com/srjpandey/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/srjpandey/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1397-search-suggestions-system](https://github.com/srjpandey/leetcode/tree/master/1397-search-suggestions-system) |
+| [2413-smallest-number-in-infinite-set](https://github.com/srjpandey/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Merge Sort
 |  |
 | ------- |
@@ -719,6 +720,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [1392-find-the-difference-of-two-arrays](https://github.com/srjpandey/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/srjpandey/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/srjpandey/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2413-smallest-number-in-infinite-set](https://github.com/srjpandey/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/srjpandey/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2487-optimal-partition-of-string](https://github.com/srjpandey/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srjpandey/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -810,6 +812,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0380-insert-delete-getrandom-o1](https://github.com/srjpandey/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/srjpandey/leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/srjpandey/leetcode/tree/master/0969-number-of-recent-calls) |
+| [2413-smallest-number-in-infinite-set](https://github.com/srjpandey/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Randomized
 |  |
 | ------- |
@@ -958,4 +961,8 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/srjpandey/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/srjpandey/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
