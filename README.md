@@ -614,6 +614,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0146-lru-cache](https://github.com/srjpandey/leetcode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/srjpandey/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/srjpandey/leetcode/tree/master/0148-sort-list) |
+| [0328-odd-even-linked-list](https://github.com/srjpandey/leetcode/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/srjpandey/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
