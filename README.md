@@ -494,6 +494,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0437-path-sum-iii](https://github.com/srjpandey/leetcode/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/srjpandey/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/srjpandey/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0871-keys-and-rooms](https://github.com/srjpandey/leetcode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/srjpandey/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/srjpandey/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/srjpandey/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -525,6 +526,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/srjpandey/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/srjpandey/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0787-sliding-puzzle](https://github.com/srjpandey/leetcode/tree/master/0787-sliding-puzzle) |
+| [0871-keys-and-rooms](https://github.com/srjpandey/leetcode/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/srjpandey/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/srjpandey/leetcode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/srjpandey/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -912,6 +914,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0207-course-schedule](https://github.com/srjpandey/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/srjpandey/leetcode/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/srjpandey/leetcode/tree/master/0399-evaluate-division) |
+| [0871-keys-and-rooms](https://github.com/srjpandey/leetcode/tree/master/0871-keys-and-rooms) |
 | [3189-find-champion-ii](https://github.com/srjpandey/leetcode/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/srjpandey/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Doubly-Linked List
