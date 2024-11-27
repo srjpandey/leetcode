@@ -12,4 +12,12 @@
  * }
  */
 
-const maxDepth = (root: TreeNode | null): number => root ? Math.max(maxDepth(root.left), maxDepth(root.right)) + 1 : 0
+function maxDepth(root: TreeNode | null): number {
+    if(root===null){
+        return 0;
+    }
+    let leftHeight=maxDepth(root.left);
+    let rightHeight=maxDepth(root.right)
+    let height=Math.max(leftHeight,rightHeight)+1;
+    return height;
+};
