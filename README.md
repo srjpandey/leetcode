@@ -120,6 +120,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [2179-most-beautiful-item-for-each-query](https://github.com/srjpandey/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/srjpandey/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/srjpandey/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/srjpandey/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/srjpandey/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/srjpandey/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -562,6 +563,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/srjpandey/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/srjpandey/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/srjpandey/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/srjpandey/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/srjpandey/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
@@ -674,6 +676,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0215-kth-largest-element-in-an-array](https://github.com/srjpandey/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/srjpandey/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1397-search-suggestions-system](https://github.com/srjpandey/leetcode/tree/master/1397-search-suggestions-system) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/srjpandey/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2413-smallest-number-in-infinite-set](https://github.com/srjpandey/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/srjpandey/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/srjpandey/leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -821,6 +824,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/srjpandey/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2089-maximum-matrix-sum](https://github.com/srjpandey/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/srjpandey/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/srjpandey/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2428-equal-row-and-column-pairs](https://github.com/srjpandey/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Counting Sort
 |  |
@@ -957,6 +961,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0547-number-of-provinces](https://github.com/srjpandey/leetcode/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/srjpandey/leetcode/tree/master/0871-keys-and-rooms) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/srjpandey/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/srjpandey/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/srjpandey/leetcode/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/srjpandey/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Doubly-Linked List
@@ -975,6 +980,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/srjpandey/leetcode/tree/master/0399-evaluate-division) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/srjpandey/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Topological Sort
 |  |
 | ------- |
