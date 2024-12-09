@@ -335,6 +335,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | ------- |
 | [0176-second-highest-salary](https://github.com/srjpandey/leetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/srjpandey/leetcode/tree/master/0177-nth-highest-salary) |
+| [0178-rank-scores](https://github.com/srjpandey/leetcode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/srjpandey/leetcode/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/srjpandey/leetcode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/srjpandey/leetcode/tree/master/0196-delete-duplicate-emails) |
