@@ -130,6 +130,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [2554-minimum-total-distance-traveled](https://github.com/srjpandey/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2636-maximum-subsequence-score](https://github.com/srjpandey/leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/srjpandey/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/srjpandey/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/srjpandey/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/srjpandey/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/srjpandey/leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -710,6 +711,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [2413-smallest-number-in-infinite-set](https://github.com/srjpandey/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/srjpandey/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/srjpandey/leetcode/tree/master/2636-maximum-subsequence-score) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/srjpandey/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/srjpandey/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Merge Sort
 |  |
@@ -833,6 +835,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/srjpandey/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/srjpandey/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/srjpandey/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/srjpandey/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/srjpandey/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Matrix
 |  |
