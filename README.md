@@ -526,6 +526,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/srjpandey/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/srjpandey/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/srjpandey/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -604,6 +605,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/srjpandey/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/srjpandey/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/srjpandey/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/srjpandey/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/srjpandey/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Tree
@@ -650,6 +652,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/srjpandey/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/srjpandey/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/srjpandey/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Divide and Conquer
 |  |
 | ------- |
