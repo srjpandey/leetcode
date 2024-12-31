@@ -97,6 +97,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0739-daily-temperatures](https://github.com/srjpandey/leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/srjpandey/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/srjpandey/leetcode/tree/master/0772-construct-quad-tree) |
+| [0780-max-chunks-to-make-sorted](https://github.com/srjpandey/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/srjpandey/leetcode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/srjpandey/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/srjpandey/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -203,6 +204,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0274-h-index](https://github.com/srjpandey/leetcode/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/srjpandey/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/srjpandey/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0780-max-chunks-to-make-sorted](https://github.com/srjpandey/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1397-search-suggestions-system](https://github.com/srjpandey/leetcode/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/srjpandey/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/srjpandey/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -328,6 +330,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0605-can-place-flowers](https://github.com/srjpandey/leetcode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/srjpandey/leetcode/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/srjpandey/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0780-max-chunks-to-make-sorted](https://github.com/srjpandey/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/srjpandey/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/srjpandey/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/srjpandey/leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -770,6 +773,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0394-decode-string](https://github.com/srjpandey/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/srjpandey/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/srjpandey/leetcode/tree/master/0739-daily-temperatures) |
+| [0780-max-chunks-to-make-sorted](https://github.com/srjpandey/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/srjpandey/leetcode/tree/master/0937-online-stock-span) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/srjpandey/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/srjpandey/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -830,6 +834,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0042-trapping-rain-water](https://github.com/srjpandey/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/srjpandey/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/srjpandey/leetcode/tree/master/0739-daily-temperatures) |
+| [0780-max-chunks-to-make-sorted](https://github.com/srjpandey/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0937-online-stock-span](https://github.com/srjpandey/leetcode/tree/master/0937-online-stock-span) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/srjpandey/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Backtracking
