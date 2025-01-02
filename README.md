@@ -135,6 +135,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [2554-minimum-total-distance-traveled](https://github.com/srjpandey/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2636-maximum-subsequence-score](https://github.com/srjpandey/leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/srjpandey/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/srjpandey/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/srjpandey/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/srjpandey/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/srjpandey/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -286,6 +287,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [2414-move-pieces-to-obtain-a-string](https://github.com/srjpandey/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/srjpandey/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/srjpandey/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/srjpandey/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/srjpandey/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/srjpandey/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Math
@@ -351,6 +353,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [1046-max-consecutive-ones-iii](https://github.com/srjpandey/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/srjpandey/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/srjpandey/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/srjpandey/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/srjpandey/leetcode/tree/master/3427-special-array-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/srjpandey/leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Database
