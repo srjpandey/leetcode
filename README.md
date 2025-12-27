@@ -122,6 +122,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [1798-max-number-of-k-sum-pairs](https://github.com/srjpandey/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/srjpandey/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1917-maximum-average-pass-ratio](https://github.com/srjpandey/leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [1929-concatenation-of-array](https://github.com/srjpandey/leetcode/tree/master/1929-concatenation-of-array) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/srjpandey/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2089-maximum-matrix-sum](https://github.com/srjpandey/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/srjpandey/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -911,6 +912,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0068-text-justification](https://github.com/srjpandey/leetcode/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/srjpandey/leetcode/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/srjpandey/leetcode/tree/master/0735-asteroid-collision) |
+| [1929-concatenation-of-array](https://github.com/srjpandey/leetcode/tree/master/1929-concatenation-of-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/srjpandey/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/srjpandey/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2428-equal-row-and-column-pairs](https://github.com/srjpandey/leetcode/tree/master/2428-equal-row-and-column-pairs) |
