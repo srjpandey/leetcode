@@ -112,6 +112,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [1392-find-the-difference-of-two-arrays](https://github.com/srjpandey/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/srjpandey/leetcode/tree/master/1397-search-suggestions-system) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/srjpandey/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1470-shuffle-the-array](https://github.com/srjpandey/leetcode/tree/master/1470-shuffle-the-array) |
 | [1524-string-matching-in-an-array](https://github.com/srjpandey/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/srjpandey/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/srjpandey/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
