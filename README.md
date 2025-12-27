@@ -131,6 +131,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [2358-number-of-ways-to-split-array](https://github.com/srjpandey/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/srjpandey/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/srjpandey/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2402-meeting-rooms-iii](https://github.com/srjpandey/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2428-equal-row-and-column-pairs](https://github.com/srjpandey/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2465-shifting-letters-ii](https://github.com/srjpandey/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/srjpandey/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -218,6 +219,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [1798-max-number-of-k-sum-pairs](https://github.com/srjpandey/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/srjpandey/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/srjpandey/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2402-meeting-rooms-iii](https://github.com/srjpandey/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2554-minimum-total-distance-traveled](https://github.com/srjpandey/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2636-maximum-subsequence-score](https://github.com/srjpandey/leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/srjpandey/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -770,6 +772,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [1917-maximum-average-pass-ratio](https://github.com/srjpandey/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/srjpandey/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/srjpandey/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2402-meeting-rooms-iii](https://github.com/srjpandey/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2413-smallest-number-in-infinite-set](https://github.com/srjpandey/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/srjpandey/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/srjpandey/leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -855,6 +858,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [1798-max-number-of-k-sum-pairs](https://github.com/srjpandey/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/srjpandey/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/srjpandey/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2402-meeting-rooms-iii](https://github.com/srjpandey/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2413-smallest-number-in-infinite-set](https://github.com/srjpandey/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/srjpandey/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2487-optimal-partition-of-string](https://github.com/srjpandey/leetcode/tree/master/2487-optimal-partition-of-string) |
@@ -908,6 +912,7 @@ Thank you for giving time to read my file and welcome. I hope you will find the 
 | [0289-game-of-life](https://github.com/srjpandey/leetcode/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/srjpandey/leetcode/tree/master/0735-asteroid-collision) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/srjpandey/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2402-meeting-rooms-iii](https://github.com/srjpandey/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2428-equal-row-and-column-pairs](https://github.com/srjpandey/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/srjpandey/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/srjpandey/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
